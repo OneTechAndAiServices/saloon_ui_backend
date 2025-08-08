@@ -1,0 +1,166 @@
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.csproj.AssemblyReference.cache
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.AssemblyInfoInputs.cache
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.AssemblyInfo.cs
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.csproj.CoreCompileInputs.cache
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.MvcApplicationPartsAssemblyInfo.cs
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.MvcApplicationPartsAssemblyInfo.cache
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\appsettings.Development.json
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\appsettings.json
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.staticwebassets.endpoints.json
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.exe
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.deps.json
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.runtimeconfig.json
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Beauty Salon API.pdb
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Azure.Core.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Humanizer.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.ClientModel.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.CodeDom.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\scopedcss\bundle\Beauty Salon API.styles.css
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty S.C7DC6AB8.Up2Date
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.dll
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\refint\Beauty Salon API.dll
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.pdb
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\Beauty Salon API.genruntimeconfig.cache
+E:\Beauty Salon\API\Beauty Salon API\obj\Debug\net8.0\ref\Beauty Salon API.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Beauty Salon\API\Beauty Salon API\bin\Debug\net8.0\Stripe.net.dll

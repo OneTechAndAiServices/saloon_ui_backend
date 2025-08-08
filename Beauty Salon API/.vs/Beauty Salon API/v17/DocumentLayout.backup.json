@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Beauty Salon\\API\\Beauty Salon API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725070105_AllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250725070105_AllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\infrastructure\\repositories\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:infrastructure\\repositories\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\application\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:application\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\migrations\\20250724065746_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:migrations\\20250724065746_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\migrations\\20250724073501_servicesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:migrations\\20250724073501_servicesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\migrations\\20250724072142_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:migrations\\20250724072142_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\migrations\\20250725072006_removedrolefromuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:migrations\\20250725072006_removedrolefromuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|e:\\beauty salon\\api\\beauty salon api\\migrations\\20250725070320_alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8080B040-33DA-4743-9345-D0CC605A4B9E}|Beauty Salon API.csproj|solutionrelative:migrations\\20250725070320_alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UserDto.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\DTOs\\UserDto.cs*",
+              "RelativeToolTip": "Application\\DTOs\\UserDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:14:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:46:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:26.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:15:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250725072006_RemovedRoleFromUser.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725072006_RemovedRoleFromUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250725072006_RemovedRoleFromUser.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725072006_RemovedRoleFromUser.cs",
+              "RelativeToolTip": "Migrations\\20250725072006_RemovedRoleFromUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:20:07.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:42:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:37:26.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:18.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:07:11.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:36:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250725070105_AllTables.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725070105_AllTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250725070105_AllTables.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725070105_AllTables.cs",
+              "RelativeToolTip": "Migrations\\20250725070105_AllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:01:06.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StripeController.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\StripeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StripeController.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\StripeController.cs",
+              "RelativeToolTip": "Controllers\\StripeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:37:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250725070320_AllTables.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725070320_AllTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250725070320_AllTables.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250725070320_AllTables.cs",
+              "RelativeToolTip": "Migrations\\20250725070320_AllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:03:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SlotRepository.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\SlotRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SlotRepository.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\SlotRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SlotRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:46:56.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:11:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:46:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SlotController.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\SlotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SlotController.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\SlotController.cs",
+              "RelativeToolTip": "Controllers\\SlotController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:41:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:38:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServiceService.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Application\\Services\\ServiceService.cs",
+              "RelativeToolTip": "Application\\Services\\ServiceService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:35:17.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Service.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "Domain\\Entities\\Service.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:35:44.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250724072142_UpdateUser.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724072142_UpdateUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250724072142_UpdateUser.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724072142_UpdateUser.cs",
+              "RelativeToolTip": "Migrations\\20250724072142_UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:21:43.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T06:17:53.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250724073501_ServicesAdded.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724073501_ServicesAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250724073501_ServicesAdded.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724073501_ServicesAdded.cs",
+              "RelativeToolTip": "Migrations\\20250724073501_ServicesAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:35:02.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:15:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250724065746_init.cs",
+              "DocumentMoniker": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724065746_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250724065746_init.cs",
+              "ToolTip": "E:\\Beauty Salon\\API\\Beauty Salon API\\Migrations\\20250724065746_init.cs",
+              "RelativeToolTip": "Migrations\\20250724065746_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:57:47.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
